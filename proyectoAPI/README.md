@@ -17,7 +17,7 @@ En este archivo .py extraemos toda la informacion que la API nos proporciona, lu
 
 ## UI
 
-Este archivo se encarga de la interfaz, en este menu definimos los departamentos, creamos el menú, pedimos los parametros y visualizamos los datos que se solicitan. el menú que se usa es un menu repetitivo que interrumpe y cierra el programa cuando ya no se necesitan mas datos y se selecciona la opcion **"N"**, esta interfaz pide todos los datos que se necesitan ára la visualizacion a la seccion API previamente explicada.
+Este archivo se encarga de la interfaz, en este menu definimos los departamentos, creamos el menú, pedimos los parametros y visualizamos los datos que se solicitan. el menú que se usa es un menu repetitivo que interrumpe y cierra el programa cuando ya no se necesitan mas datos y se selecciona la opcion **"N"**, esta interfaz pide todos los datos que se necesitan para la visualizacion a la seccion API previamente explicada.
 
 ## main
 
