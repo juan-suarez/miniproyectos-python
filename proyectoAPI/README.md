@@ -25,4 +25,5 @@ Solo se usa para la ejecucion del programa, este archivo solo requiere del UI y 
 
 ## resultados
 
-
+![alt text](https://github.com/juan-suarez/miniproyectos-python/blob/main/imagenes/unusual.jpg)
+![alt text](https://github.com/juan-suarez/miniproyectos-python/blob/main/imagenes/usual.jpg)
