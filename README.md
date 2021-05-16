@@ -1,4 +1,4 @@
 # Miniproyectos-python
-En este repositorio guardo algunos proyectos con los que prueba nuevas cosas en python, podemos encontrar uso de APIs, interfaces graficaz con QtDesigner y uso de clases y objetos en python.
+En este repositorio tengo algunos proyectos con los que experimento en python, podemos encontrar uso de APIs, interfaces graficaz con QtDesigner, uso de clases y objetos en python y mas...
 
-En cada carpeta hay un README.md en el que explico a detalle cada mini-proyecto que he hceho en python.
+En cada carpeta hay un README.md en el que explico a detalle cada mini-proyecto que he hecho en python.
